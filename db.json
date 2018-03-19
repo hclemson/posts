@@ -41,7 +41,7 @@
         "userId": "seller-id",
         "firstName": "Seller",
         "lastName": "Validated",
-        "avatarUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59bd.png",
+        "avatarUrl": "https://test1.vbtks.net:15935/api/v1/users/seller-id/avatarImage",
         "location": "Lancashire"
       },
       "viewCount": 1,
