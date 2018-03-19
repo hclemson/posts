@@ -35,7 +35,27 @@
             "width": 120,
             "height": 100
           }
-        }
+        },
+        {
+            "type": "SmartText",
+            "smartText": [
+              "#Oasis in concert 1996 ",
+              {
+                  "category" : "User",
+                  "disc" : "",
+                  "display" : "Jon Hill",
+                  "id" : "cda8f4c538dfbd72",
+                  "rank" : 2,
+                  "smarties" :     [
+                              {
+                          "type" : "UserSmartie",
+                          "userId" : "5a9931e1e4b050643e348a0b"
+                      }
+                  ],
+                  "tag" : "@JonHill"
+              }
+            ]
+          }
       ],
       "owner": {
         "userId": "seller-id",
