@@ -1,59 +1,61 @@
 {
-"data": {
-  "type": "Post",
-  "id": "5a8bf90de4b043ddc26a975F",
-  "createdAt": "2018-02-20T10:38:36.884Z",
-  "version": 1,
-  "hashTags": [
-    "#oasis"
-  ],
-  "components": [
-    {
-      "type": "Media",
-      "mediaType": "image/jpeg",
-      "uri": "https://firebasestorage.googleapis.com/v0/b/vibe-tickets.appspot.com/o/images%2Fnintchdbpict000258807022.jpg?alt=media&token=3800530a-25e7-486c-b3d3-b4a9f94c05d1",
-      "dimensions": {
-        "width": 120,
-        "height": 100
-      }
-    },
-    {
-      "type": "Media",
-      "mediaType": "image/jpeg",
-      "uri": "https://firebasestorage.googleapis.com/v0/b/vibe-tickets.appspot.com/o/images%2Foasis.jpg?alt=media&token=0970ea5d-2364-4b66-a95f-f4ac2c12b871",
-      "dimensions": {
-        "width": 120,
-        "height": 100
-      }
-    },
-    {
-      "type": "Media",
-      "mediaType": "image/jpeg",
-      "uri": "https://firebasestorage.googleapis.com/v0/b/vibe-tickets.appspot.com/o/images%2F599eb4b1e4b04aceb5aa88da.jpg?alt=media&token=4a306f86-c765-4adc-b675-c75be5093179",
-      "dimensions": {
-        "width": 120,
-        "height": 100
+  "post": {
+    "data": {
+      "type": "Post",
+      "id": "5a8bf90de4b043ddc26a975F",
+      "createdAt": "2018-02-20T10:38:36.884Z",
+      "version": 1,
+      "hashTags": [
+        "#oasis"
+      ],
+      "components": [
+        {
+          "type": "Media",
+          "mediaType": "image/jpeg",
+          "uri": "https://firebasestorage.googleapis.com/v0/b/vibe-tickets.appspot.com/o/images%2Fnintchdbpict000258807022.jpg?alt=media&token=3800530a-25e7-486c-b3d3-b4a9f94c05d1",
+          "dimensions": {
+            "width": 120,
+            "height": 100
+          }
+        },
+        {
+          "type": "Media",
+          "mediaType": "image/jpeg",
+          "uri": "https://firebasestorage.googleapis.com/v0/b/vibe-tickets.appspot.com/o/images%2Foasis.jpg?alt=media&token=0970ea5d-2364-4b66-a95f-f4ac2c12b871",
+          "dimensions": {
+            "width": 120,
+            "height": 100
+          }
+        },
+        {
+          "type": "Media",
+          "mediaType": "image/jpeg",
+          "uri": "https://firebasestorage.googleapis.com/v0/b/vibe-tickets.appspot.com/o/images%2F599eb4b1e4b04aceb5aa88da.jpg?alt=media&token=4a306f86-c765-4adc-b675-c75be5093179",
+          "dimensions": {
+            "width": 120,
+            "height": 100
+          }
+        }
+      ],
+      "owner": {
+        "userId": "seller-id",
+        "firstName": "Seller",
+        "lastName": "Validated",
+        "avatarUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59bd.png",
+        "location": "Lancashire"
+      },
+      "viewCount": 1,
+      "comments": {
+        "total": 0,
+        "latest": []
+      },
+      "likes": {
+        "byMe": false,
+        "total": 1,
+        "latest": [
+          "seller-id"
+        ]
       }
     }
-  ],
-  "owner": {
-    "userId": "seller-id",
-    "firstName": "Seller",
-    "lastName": "Validated",
-    "avatarUrl": "https://test1.vbtks.net:15935/images/5a81d2bde4b01177610a59bd.png",
-    "location": "Lancashire"
-  },
-  "viewCount": 1,
-  "comments": {
-    "total": 0,
-    "latest": []
-  },
-  "likes": {
-    "byMe": false,
-    "total": 1,
-    "latest": [
-      "seller-id"
-    ]
   }
-}
 }
